@@ -1,0 +1,10 @@
+{
+  "base_name": "需求分拣机",
+  "base_token": "base_token_here",
+  "base_url": "https://example.feishu.cn/base/base_token_here",
+  "tables": {
+    "需求池": "tbl_requirement",
+    "Bug池": "tbl_bug"
+  },
+  "updated_at": "2026-06-24T00:00:00+08:00"
+}

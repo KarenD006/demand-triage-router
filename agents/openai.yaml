@@ -1,0 +1,7 @@
+interface:
+  display_name: "需求分拣机"
+  short_description: "把用户反馈分拣到需求池和 Bug池，并按需求状态跟进"
+  default_prompt: "Use $demand-triage-router to initialize or operate a Feishu Base demand triage workflow."
+
+policy:
+  allow_implicit_invocation: true
