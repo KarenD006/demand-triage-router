@@ -1,7 +1,0 @@
-interface:
-  display_name: "需求分拣机"
-  short_description: "初始化需求分拣机，或把需求和 Bug 录入飞书收件箱"
-  default_prompt: "Use $demand-triage-router when the user wants to initialize the demand triage skill, record a requirement, or log a bug/feedback item."
-
-policy:
-  allow_implicit_invocation: true
